@@ -23,8 +23,8 @@ class Student {
 
     public static void main(String[] args) {
         Student s = new Student();
-        s.setName("Vivek");
-        s.setAge(20);
+        s.setName("VVA");
+        s.setAge(22);
         System.out.println("Name: " + s.getName());
         System.out.println("Age: " + s.getAge());
     }
